@@ -10,11 +10,11 @@ namespace NoteBook
             //CreateContacts name = new CreateContacts();
             //name.PersonDetails();
 
-            AddNewContact obj = new AddNewContact();
-             obj.AddNewContactInBook();
+            //AddNewContact obj = new AddNewContact();
+            // obj.AddNewContactInBook();
 
-            //EditDetails obj = new EditDetails();
-            //obj.EditDetailsPerson();
+            EditDetails obj = new EditDetails();
+            obj.EditDetailsPerson();
 
             //EditAddressBook ed=new EditAddressBook();
             //ed.EditAddressBookJ();
