@@ -13,11 +13,11 @@ namespace NoteBook
             //AddNewContact obj = new AddNewContact();
             // obj.AddNewContactInBook();
 
-            EditDetails obj = new EditDetails();
-            obj.EditDetailsPerson();
+            //EditDetails obj = new EditDetails();
+            //obj.EditDetailsPerson();
 
-            //EditAddressBook ed=new EditAddressBook();
-            //ed.EditAddressBookJ();
+            EditAddressBook ed = new EditAddressBook();
+            ed.EditAddressBookJ();
         }
     }
 }
