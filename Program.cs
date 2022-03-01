@@ -16,8 +16,14 @@ namespace NoteBook
             //EditDetails obj = new EditDetails();
             //obj.EditDetailsPerson();
 
-            EditAddressBook ed = new EditAddressBook();
-            ed.EditAddressBookJ();
+            //EditAddressBook ed = new EditAddressBook();
+            //ed.EditAddressBookJ();
+
+
+            Edit obj = new Edit();
+            obj.Display();
+            obj.DisplayTwo();
+        
         }
     }
 }
